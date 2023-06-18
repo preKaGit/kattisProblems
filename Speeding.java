@@ -19,6 +19,7 @@ public class Speeding {
             }
             oldMiles = miles;
             oldTime = time;
-        }   System.out.println(highestSpeed);
+        }
+        System.out.println(highestSpeed);
     }
 }
